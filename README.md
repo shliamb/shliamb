@@ -6,7 +6,7 @@
 - [instagram](https://www.instagram.com/1rmaster/)
 - [freelance](https://freelance.habr.com/freelancers/first_remont)
 - [vk](https://vk.com/shapnoname)
-- [telegram](https://t.me/@Shliambur)
+- [telegram](https://t.me/Shliambur)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
