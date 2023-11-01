@@ -1,10 +1,13 @@
-### Hi there 👋
+<!-- ### Привет! / Hi! /-->
+Просто мой GitHab / Just my GitHab
 
+- [site](https://www.1rmaster.ru/)
+- [youtube](https://www.youtube.com/@onermaster)
+- [instagram](https://www.instagram.com/1rmaster/)
+- [freelance](https://freelance.habr.com/freelancers/first_remont)
+- [vk](https://vk.com/shapnoname)
+- [telegram](https://t.me/@Shliambur)
 <!--
-**shliamb/shliamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
