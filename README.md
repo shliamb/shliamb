@@ -8,24 +8,16 @@ At the moment, I'm focusing on learning Python, Django. I hope to get a job as a
 
 ## Contacts
 
-<span style="margin-right:10;">[site](https://www.1rmaster.ru/)</span>   [youtube](https://www.youtube.com/@onermaster)   [instagram](https://www.instagram.com/1rmaster/)   [freelance](https://freelance.habr.com/freelancers/first_remont)   [vk](https://vk.com/shapnoname)   [telegram](https://t.me/Shliambur)
+<span style="margin-right:10;">[site](https://www.1rmaster.ru/)</span>  [youtube](https://www.youtube.com/@onermaster)  [instagram](https://www.instagram.com/1rmaster/)  [freelance](https://freelance.habr.com/freelancers/first_remont)  [vk](https://vk.com/shapnoname)  [telegram](https://t.me/Shliambur)
 
-
-</br>
 </br>
 </br>
 
 [![codewars](https://www.codewars.com/users/first-remont/badges/large)](https://www.codewars.com/users/first-remont)
 
 
-</br>
-</br>
-</br>
 
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channelid="UC_WmFPvRXB93Hxs3Zw3A-rQ" data-layout="full" data-count="default"></div>
-
+</br>
 </br>
 </br>
 </br>
