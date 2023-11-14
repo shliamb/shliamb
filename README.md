@@ -8,7 +8,12 @@ At the moment, I'm focusing on learning Python, Django. I hope to get a job as a
 
 ## Contacts
 
-🌱 [site](https://www.1rmaster.ru/) 🌱 [youtube](https://www.youtube.com/@onermaster) 🌱 [instagram](https://www.instagram.com/1rmaster/) 🌱 [freelance](https://freelance.habr.com/freelancers/first_remont) 🌱 [vk](https://vk.com/shapnoname) 🌱 [telegram](https://t.me/Shliambur)
+My cite: [www.1rmaster.ru](https://www.1rmaster.ru/)
+YouTube: [@onermaster](https://www.youtube.com/@onermaster)
+Instagram: [1rmaster](https://www.instagram.com/1rmaster/)
+Freelance: [first_remont](https://freelance.habr.com/freelancers/first_remont)
+VK: [shapnoname](https://vk.com/shapnoname)
+Telegram: [Shliambur](https://t.me/Shliambur)
 
 </br>
 </br>
