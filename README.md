@@ -4,14 +4,14 @@ A technically competent specialist with extensive experience in electronics, cir
 
 At the moment, I'm focusing on learning Python, Django. I hope to get a job as a developer in the backend.
 
-*****
+## Contacts
 
 [site](https://www.1rmaster.ru/) [youtube](https://www.youtube.com/@onermaster) [instagram](https://www.instagram.com/1rmaster/) [freelance](https://freelance.habr.com/freelancers/first_remont) [vk](https://vk.com/shapnoname) [telegram](https://t.me/Shliambur)
 
-*
+
 [![codewars](https://www.codewars.com/users/first-remont/badges/large)](https://www.codewars.com/users/first-remont)
 
-*
+
 
 For myself for 2024:
 - Improve your English language skills,
