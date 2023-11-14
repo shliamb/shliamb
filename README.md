@@ -1,5 +1,9 @@
-<!-- ### Привет! / Hi! /-->
-Просто мой GitHab / Just my GitHab
+## About me
+A technically competent specialist with extensive experience in electronics, circuit engineering, in the development of devices on controllers, in repair and web development, in SEO. I can adapt quickly and solve complex problems.
+
+At the moment, I'm focusing on learning Python, Django. I hope to get a job as a developer in the backend.
+
+For myself for 2024:
 
 - [site](https://www.1rmaster.ru/)
 - [youtube](https://www.youtube.com/@onermaster)
