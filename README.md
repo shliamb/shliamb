@@ -18,7 +18,7 @@ Telegram: [Shliambur](https://t.me/Shliambur)
 </br>
 </br>
 
-##Badges
+## Badges
 
 [![codewars](https://www.codewars.com/users/first-remont/badges/large)](https://www.codewars.com/users/first-remont)
 
@@ -42,7 +42,5 @@ It would be nice to practice sometime:
 - Bioinformatics,
 - Pygame 2Dgame,
 - Mathematics science machine learning
-  - link
-  - 
 </details>
 
