@@ -1,12 +1,12 @@
 ## About me
 
-En
+En \
 A technically competent specialist with extensive experience in electronics, circuit engineering, in the development of devices on controllers, in repair and web development, in SEO. I can adapt quickly and solve complex problems.
 
 At the moment, I'm focusing on learning Python, Django. I hope to get a job as a developer in the backend.
 
 ****
-Ru
+Ru \
 Технически грамотный специалист с большим опытом работы в электронике, схемотехнике, в разработке устройств на контроллерах, в ремонте и веб-разработке, в SEO. Я могу быстро адаптироваться и решать сложные задачи.
 
 На данный момент я сосредоточен на изучении Python, Django. Я надеюсь устроиться на работу разработчиком в бэкэнд.
