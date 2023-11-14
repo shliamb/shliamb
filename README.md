@@ -13,12 +13,13 @@ YouTube: [@onermaster](https://www.youtube.com/@onermaster) \
 Instagram: [1rmaster](https://www.instagram.com/1rmaster/) \
 Freelance: [first_remont](https://freelance.habr.com/freelancers/first_remont) \
 VK: [shapnoname](https://vk.com/shapnoname) \
-Telegram: [Shliambur](https://t.me/Shliambur) 
+Telegram: [Shliambur](https://t.me/Shliambur) \
+Mail: [firstremont@gmail.com](mailto:firstremont@gmail.com)
 
-</br>
-</br>
 
 ## Badges
+
+</br>
 
 [![codewars](https://www.codewars.com/users/first-remont/badges/large)](https://www.codewars.com/users/first-remont)
 
