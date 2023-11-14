@@ -32,7 +32,7 @@ Mail: [firstremont@gmail.com](mailto:firstremont@gmail.com)
 
 </br>
 
-<details>
+<for_me>
   
 For myself for 2024:
 - Improve your English language skills,
@@ -50,5 +50,5 @@ It would be nice to practice sometime:
 - Bioinformatics,
 - Pygame 2Dgame,
 - Mathematics science machine learning
-</details>
+</for_me>
 
