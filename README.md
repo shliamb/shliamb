@@ -18,16 +18,14 @@ Telegram: [Shliambur](https://t.me/Shliambur)
 </br>
 </br>
 
+##Badges
+
 [![codewars](https://www.codewars.com/users/first-remont/badges/large)](https://www.codewars.com/users/first-remont)
 
-
-
-</br>
-</br>
-</br>
 </br>
 
 <details>
+  
 For myself for 2024:
 - Improve your English language skills,
 - Improve Python, Django, rest api skills,
