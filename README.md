@@ -17,3 +17,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![codewars](https://www.codewars.com/users/first-remont/badges/large)](https://www.codewars.com/users/first-remont)
+
