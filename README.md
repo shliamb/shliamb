@@ -26,7 +26,7 @@ Telegram: [Shliambur](https://t.me/Shliambur)
 </br>
 </br>
 </br>
-
+уцц
 
 >>>
 For myself for 2024:
@@ -45,16 +45,8 @@ It would be nice to practice sometime:
 - Bioinformatics,
 - Pygame 2Dgame,
 - Mathematics science machine learning
-  - link 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - link
+  - 
 <<<
 
+лордлр
