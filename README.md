@@ -1,8 +1,17 @@
 ## About me
-*
+
 A technically competent specialist with extensive experience in electronics, circuit engineering, in the development of devices on controllers, in repair and web development, in SEO. I can adapt quickly and solve complex problems.
 
 At the moment, I'm focusing on learning Python, Django. I hope to get a job as a developer in the backend.
+
+*
+
+[site](https://www.1rmaster.ru/) [youtube](https://www.youtube.com/@onermaster) [instagram](https://www.instagram.com/1rmaster/) [freelance](https://freelance.habr.com/freelancers/first_remont) [vk](https://vk.com/shapnoname) [telegram](https://t.me/Shliambur)
+
+*
+[![codewars](https://www.codewars.com/users/first-remont/badges/large)](https://www.codewars.com/users/first-remont)
+
+*
 
 For myself for 2024:
 - Improve your English language skills,
@@ -13,7 +22,7 @@ For myself for 2024:
 - Parser_python,
 - Mobile app python Kivy Beware,
 - Blockchain Web3 Ethereum,
-* If I don't have time, I'll postpone it to next year.
+If I don't have time, I'll postpone it to next year.
 
 It would be nice to practice sometime:
 - Desktop app PyQt Tkinter Kivy,
@@ -38,5 +47,4 @@ It would be nice to practice sometime:
 - ⚡ Fun fact: ...
 -->
 
-[![codewars](https://www.codewars.com/users/first-remont/badges/large)](https://www.codewars.com/users/first-remont)
 
