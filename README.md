@@ -28,6 +28,7 @@ Telegram: [Shliambur](https://t.me/Shliambur)
 </br>
 
 
+>>>
 For myself for 2024:
 - Improve your English language skills,
 - Improve Python, Django, rest api skills,
@@ -55,5 +56,5 @@ It would be nice to practice sometime:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<<<
 
