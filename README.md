@@ -26,9 +26,8 @@ Telegram: [Shliambur](https://t.me/Shliambur)
 </br>
 </br>
 </br>
-уцц
 
->>>
+<details>
 For myself for 2024:
 - Improve your English language skills,
 - Improve Python, Django, rest api skills,
@@ -47,6 +46,5 @@ It would be nice to practice sometime:
 - Mathematics science machine learning
   - link
   - 
-<<<
+</details>
 
-лордлр
