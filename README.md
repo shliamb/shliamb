@@ -4,6 +4,22 @@ A technically competent specialist with extensive experience in electronics, cir
 At the moment, I'm focusing on learning Python, Django. I hope to get a job as a developer in the backend.
 
 For myself for 2024:
+- Improve your English language skills,
+- Improve Python, Django, rest api skills,
+- IoT MicroPython ESP8266, ESP 32, STM32, Arduino,
+- Automatic testing pytest,
+- Bot telegram Python,
+- Parser_python,
+- Mobile app python Kivy Beware,
+- Blockchain Web3 Ethereum,
+* If I don't have time, I'll postpone it to next year.
+
+*****
+It would be nice to practice sometime:
+- Desktop app PyQt Tkinter Kivy,
+- Bioinformatics,
+- Pygame 2Dgame,
+- Mathematics science machine learning
 
 - [site](https://www.1rmaster.ru/)
 - [youtube](https://www.youtube.com/@onermaster)
