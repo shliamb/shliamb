@@ -1,4 +1,5 @@
 ## About me
+*
 A technically competent specialist with extensive experience in electronics, circuit engineering, in the development of devices on controllers, in repair and web development, in SEO. I can adapt quickly and solve complex problems.
 
 At the moment, I'm focusing on learning Python, Django. I hope to get a job as a developer in the backend.
@@ -14,7 +15,6 @@ For myself for 2024:
 - Blockchain Web3 Ethereum,
 * If I don't have time, I'll postpone it to next year.
 
-*****
 It would be nice to practice sometime:
 - Desktop app PyQt Tkinter Kivy,
 - Bioinformatics,
