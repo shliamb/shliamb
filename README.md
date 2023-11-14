@@ -4,7 +4,7 @@ A technically competent specialist with extensive experience in electronics, cir
 
 At the moment, I'm focusing on learning Python, Django. I hope to get a job as a developer in the backend.
 
-*
+**
 
 [site](https://www.1rmaster.ru/) [youtube](https://www.youtube.com/@onermaster) [instagram](https://www.instagram.com/1rmaster/) [freelance](https://freelance.habr.com/freelancers/first_remont) [vk](https://vk.com/shapnoname) [telegram](https://t.me/Shliambur)
 
