@@ -8,7 +8,7 @@ At the moment, I'm focusing on learning Python, Django. I hope to get a job as a
 
 ## Contacts
 
-<span style="margin-right:10;">[site](https://www.1rmaster.ru/)</span>  [youtube](https://www.youtube.com/@onermaster)  [instagram](https://www.instagram.com/1rmaster/)  [freelance](https://freelance.habr.com/freelancers/first_remont)  [vk](https://vk.com/shapnoname)  [telegram](https://t.me/Shliambur)
+🌱 [site](https://www.1rmaster.ru/) 🌱 [youtube](https://www.youtube.com/@onermaster) 🌱 [instagram](https://www.instagram.com/1rmaster/) 🌱 [freelance](https://freelance.habr.com/freelancers/first_remont) 🌱 [vk](https://vk.com/shapnoname) 🌱 [telegram](https://t.me/Shliambur)
 
 </br>
 </br>
@@ -39,7 +39,7 @@ It would be nice to practice sometime:
 - Bioinformatics,
 - Pygame 2Dgame,
 - Mathematics science machine learning
-
+  - link 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
