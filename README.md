@@ -3,3 +3,8 @@ At the age of 39, my wife announced our divorce to me, after 20 years of marriag
 In June 2024, I returned to laptop repair again to earn money for food. Now, I have more than 15 years of experience promoting websites in search engines, the same amount in repairing complex microelectronic devices, 12 years of intense immersion in Thai boxing, and now programming, albeit at a low level.
 
 I do not know how my life will turn out in the future, but I hope that I will be able to do something useful and interesting in the remaining time prepared for me, let's go..
+
+My music - https://t.me/music_shliamb
+My Chatgpt - https://t.me/shliamb2_bot
+My blog - https://t.me/shliamb84
+My video blog - https://www.youtube.com/@shliamb
