@@ -4,11 +4,11 @@ In June 2024, I returned to laptop repair again to earn money for food. Now, I h
 
 I do not know how my life will turn out in the future, but I hope that I will be able to do something useful and interesting in the remaining time prepared for me, let's go..
 
-My music - https://t.me/music_shliamb
+just music - https://t.me/music_shliamb
 
-My Chatgpt - https://t.me/shliamb2_bot
+just Chatgpt - https://t.me/shliamb2_bot
 
-My blog - https://t.me/shliamb84
+just blog - https://t.me/shliamb84
 
-My video blog - https://www.youtube.com/@shliamb
+just video blog - https://www.youtube.com/@shliamb
 
