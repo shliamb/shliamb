@@ -1,11 +1,11 @@
 
 just API AI - https://t.me/myapi_aibot
 
-just Chatgpt - https://t.me/shliamb2_bot
+just AI Telegram bot - https://t.me/shliamb2_bot
 
-just music - https://t.me/music_shliamb
+just my music Telegram Channel - https://t.me/music_shliamb
 
-just blog - https://t.me/shliamb84
+just blog Telegram Channel - https://t.me/shliamb84
 
-just video blog - https://www.youtube.com/@shliamb
+just video blog YouTube - https://www.youtube.com/@shliamb
 
