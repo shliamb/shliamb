@@ -1,7 +1,7 @@
 
 just API AI - https://t.me/myapi_aibot
 
-just AI Telegram bot - https://t.me/shliamb2_bot
+just AI Telegram bot - https://t.me/sliamb_ai_bot
 
 just hard music on my Telegram Channel - https://t.me/music_shliamb
 
