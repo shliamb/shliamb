@@ -1,10 +1,10 @@
 
-just API AI - https://t.me/myapi_aibot
+AI bot - https://t.me/sliamb_ai_bot
 
-just AI Telegram bot - https://t.me/sliamb_ai_bot
+Hard music - https://t.me/music_shliamb
 
-just hard music on my Telegram Channel - https://t.me/music_shliamb
+Films in Eng - https://t.me/videos_english
 
-just films on my Telegram Channel - https://t.me/videos_english
+API AI - https://t.me/myapi_aibot
 
 
